@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Justin Cheah and I am currently a Computer Science undergraduate from the National University of Singapore.
 
 <!--
 **JCSnap/JCSnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
