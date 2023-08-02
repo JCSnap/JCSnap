@@ -1,5 +1,13 @@
 ### Hi there 👋
-I am Justin Cheah and I am currently a Computer Science undergraduate from the National University of Singapore.
+
+I am Justin Cheah and I am currently a Computer Science and Business Administration undergraduate from the National University of Singapore. I am interesting in new emerging technologies, specifically the application of generative AI in software development!
+
+My hobbies include:
+🤔 Philosophy
+🥏 Sports
+💻 Tinkering with tech
+🥱 Scrolling tiktok and youtube
+🚶‍♂️ Listening to rap music and just walking around mindlessly
 
 <!--
 **JCSnap/JCSnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
