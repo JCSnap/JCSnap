@@ -9,6 +9,8 @@ My hobbies include:
 🥱 Scrolling tiktok and youtube
 🚶‍♂️ Listening to rap music and just walking around mindlessly
 
+FOOD
+
 <!--
 **JCSnap/JCSnap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
