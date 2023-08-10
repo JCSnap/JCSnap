@@ -2,6 +2,8 @@
 
 I am Justin Cheah and I am currently a Computer Science and Business Administration undergraduate from the National University of Singapore. I am interested in new emerging technologies, specifically the application of generative AI in software development!
 
+Interested to learn more!
+
 My hobbies include:  
 🤔 Philosophy  
 🥏 Sports  
