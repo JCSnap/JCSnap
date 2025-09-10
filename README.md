@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there
 
-I am Justin Cheah and I am currently a Computer Science and Business Administration undergraduate from the National University of Singapore. I am interested in software development!
+I am Justin Cheah and I am currently a Computer Science and Business Administration undergraduate from the National University of Singapore!
 
 Interested to learn more!
 
